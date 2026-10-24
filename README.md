@@ -28,3 +28,12 @@ Explore the published dashboard here:
 
 ## Author
 Created as an Electric Vehicle Market Performance & Insights project.
+
+
+
+## Video Demonstration
+
+Click below to watch the project demonstration video:
+
+[Watch Project Demo on Google Drive](https://drive.google.com/file/d/13SYRh6rSOPRBV-0aQ8mx-uifxvPfauhT/view?usp=sharing)
+
